@@ -1,34 +1,26 @@
 header {
     text-align: left;
     height: 55px;
-    color: white;
-    background-color: rgb(21, 94, 204);
+    color: #ffffff;
+    background-color: #155ecc;
     background-image: url('../img/pattern.png');
     background-size: contain;
 
 }
 
-.title-header0 {
-    font-size: 23px;
-    color: white;
-    font-family: Arial;
+.logo {
+    width: 12%;
 }
 
-.title-header1 {
-    font-size: 25px;
-    color: white;
-    font-weight: bold;
-    font-family: Arial;
-}
 
 #section-subtitle {
-    color: rgb(138, 138, 138);
+    color: #8a8a8a;
     line-height: 1px;
     font-size: smaller;
 }
 
 .light-blue {
-    color: rgb(98, 190, 221);
+    color: #62bedd;
 }
 
 .text-highlighted {
@@ -43,11 +35,15 @@ th {
 }
 
 .table-blue {
-    background-color: rgb(123, 192, 215);
+    background-color: #7bc0d7;
 }
 
 h4 {
-    color: rgb(77, 77, 77);
+    color: #4d4d4d;
+}
+
+.text-white {
+    color: #ffffff;
 }
 
 footer {
