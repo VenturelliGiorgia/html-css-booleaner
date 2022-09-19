@@ -1,0 +1,23 @@
+header {
+    text-align: left;
+    height: 55px;
+    color: white;
+    background-color: rgb(21, 94, 204);
+    background-image: url('../img/pattern.png');
+    background-size: contain;
+}
+
+.title-header {
+    font-size: 20px;
+    color: white;
+}
+
+#section-subtitle {
+    color: rgb(138, 138, 138);
+    line-height: 1px;
+    font-size: smaller;
+}
+
+.light-blue {
+    color: rgb(98, 190, 221);
+}
