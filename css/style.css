@@ -50,8 +50,21 @@ h4 {
 footer {
     text-align: left;
     height: 200px;
-    background-image: url('../img/monitor.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: left;
+}
+
+.footer-image0 {
+    background-image: url('../img/monitor.jpg');
+}
+
+.image {
+    width: 208px;
+    height: 160px;
+}
+
+.footer-image1 {
+    background-image: url('../img/graph.jpg');
+
 }
