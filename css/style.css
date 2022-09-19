@@ -25,3 +25,14 @@ header {
 .text-highlighted {
     background-color: #ffea4e;
 }
+
+th {
+    color: #fff;
+    background-color: #2f73cb;
+    width: 10%;
+    text-align: left;
+}
+
+.table-blue {
+    background-color: rgb(123, 192, 215);
+}
