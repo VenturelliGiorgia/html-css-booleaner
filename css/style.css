@@ -5,11 +5,20 @@ header {
     background-color: rgb(21, 94, 204);
     background-image: url('../img/pattern.png');
     background-size: contain;
+
 }
 
-.title-header {
-    font-size: 20px;
+.title-header0 {
+    font-size: 23px;
     color: white;
+    font-family: Arial;
+}
+
+.title-header1 {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial;
 }
 
 #section-subtitle {
@@ -35,4 +44,17 @@ th {
 
 .table-blue {
     background-color: rgb(123, 192, 215);
+}
+
+h4 {
+    color: rgb(77, 77, 77);
+}
+
+footer {
+    text-align: left;
+    height: 200px;
+    background-image: url('../img/monitor.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left;
 }
