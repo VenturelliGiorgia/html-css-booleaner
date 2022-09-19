@@ -21,3 +21,7 @@ header {
 .light-blue {
     color: rgb(98, 190, 221);
 }
+
+.text-highlighted {
+    background-color: #ffea4e;
+}
