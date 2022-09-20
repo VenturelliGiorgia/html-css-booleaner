@@ -1,15 +1,16 @@
 header {
-    text-align: left;
-    height: 55px;
-    color: #ffffff;
     background-color: #155ecc;
     background-image: url('../img/pattern.png');
-    background-size: contain;
+    background-size: auto 200%;
 
 }
 
+body {
+    margin: 0;
+}
+
 .logo {
-    margin-top: 1%;
+    margin-top: 2%;
     width: 12%;
 }
 
